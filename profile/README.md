@@ -13,7 +13,7 @@
 
 ## 🤝 Colaboradores
 
-Equipe 33
+Equipe 4
 
 <table>
   <tr>
