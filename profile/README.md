@@ -8,7 +8,7 @@
   <img src="image-6.png" width="100"/>
 </p>
 
-![alt text](image.png)
+![alt text](home.png)
 
 
 ## 🤝 Colaboradores
