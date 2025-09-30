@@ -2,6 +2,17 @@
 
 ## - Um sistema de triagem hospitalar  
 
+## Deploy
+
+O projeto está atualmente disponível em [https://frontend-ckkn.onrender.com](https://frontend-ckkn.onrender.com/).
+
+- **Para ter acesso pelo longin use:**
+
+    ```bash
+    email:Ingreddoutora@gmail.com
+    password:aaaasa
+    ```
+
 <p align="center">
   <img src="image-4.png" width="100"/>
   <img src="image-5.png" width="100"/>
