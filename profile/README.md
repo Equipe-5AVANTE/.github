@@ -1,6 +1,4 @@
 #  Atendimento de pacientes 
-
-## - Um sistema de triagem hospitalar  
 ## Descrição do Projeto
 
 Este projeto consiste em um sistema de triagem hospitalar desenvolvido para gerenciar o fluxo de pacientes. O sistema classifica os pacientes de acordo com a prioridade de atendimento, baseada na gravidade de sua condição, utilizando um esquema de cores para fácil identificação:
